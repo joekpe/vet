@@ -1,6 +1,5 @@
 # Vet38 - Pet Clinic Management System
 
-![Vet38](vet38.jpg)
 
 Vet38 is a simple Laravel app designed to support managing patients (cats, dogs, or rabbits) in a pet clinic. The system allows users to add new patients, assign them to an owner, and record the treatments they receive. Additionally, it provides a comprehensive dashboard with statistics about the types of patients and a chart displaying the number of treatments administered over the past year.
 
